@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyPassFw", "CopyPassFw\CopyPassFw.csproj", "{C9FFF899-DBE3-4EB3-9E58-90B51069377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9FFF899-DBE3-4EB3-9E58-90B51069377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FFF899-DBE3-4EB3-9E58-90B51069377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FFF899-DBE3-4EB3-9E58-90B51069377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FFF899-DBE3-4EB3-9E58-90B51069377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14723EAF-FC34-4364-9D53-F4EDC0826F6A}
+	EndGlobalSection
+EndGlobal
